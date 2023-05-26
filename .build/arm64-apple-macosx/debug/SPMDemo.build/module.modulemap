@@ -1,0 +1,4 @@
+module SPMDemo {
+    header "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SPMDemo.build/SPMDemo-Swift.h"
+    requires objc
+}

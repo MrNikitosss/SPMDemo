@@ -1,0 +1,4 @@
+module SnapKit {
+    header "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/SnapKit-Swift.h"
+    requires objc
+}

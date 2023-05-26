@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SPMDemoTests.build/master.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/Tests/SPMDemoTests/SPMDemoTests.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SPMDemoTests.build/SPMDemoTests.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SPMDemoTests.build/SPMDemoTests.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SPMDemoTests.build/SPMDemoTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SPMDemoTests.build/SPMDemoTests.swiftdeps"
+  }
+}

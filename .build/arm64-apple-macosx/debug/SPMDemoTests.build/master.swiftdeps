@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "f2ce6afd626716d647a0b76379b06f272e02b865ff4b38102993d9d2abb17424"
+build_start_time: [1685105990, 182986974]
+build_end_time: [1685105996, 649713039]
+inputs:
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/Tests/SPMDemoTests/SPMDemoTests.swift": [1685105916, 528725624]

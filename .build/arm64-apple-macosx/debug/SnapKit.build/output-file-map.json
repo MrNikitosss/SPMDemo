@@ -1,0 +1,227 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/master.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/Constraint.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Constraint.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Constraint.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Constraint~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Constraint.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintAttributes.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintAttributes.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintAttributes.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintAttributes~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintAttributes.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintConfig.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintConfig.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintConfig.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintConfig.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintConstantTarget.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintConstantTarget.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintConstantTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintConstantTarget.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintDSL.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDSL.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDSL.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDSL.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintDescription.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDescription.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDescription.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDescription~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDescription.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsetTarget.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsetTarget.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsetTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsetTarget.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsets.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsets.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsets~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintDirectionalInsets.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintInsetTarget.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintInsetTarget.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintInsetTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintInsetTarget.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintInsets.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintInsets.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintInsets.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintInsets~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintInsets.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintItem.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintItem.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintItem.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintItem.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide+Extensions.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide+Extensions.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide+Extensions.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuide.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuideDSL.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuideDSL.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuideDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutGuideDSL.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupport.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupport.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupport.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupportDSL.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupportDSL.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupportDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintLayoutSupportDSL.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintMaker.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMaker.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMaker.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMaker~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMaker.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerEditable.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerEditable.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerEditable~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerEditable.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerExtendable.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerExtendable.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerExtendable~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerExtendable.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerFinalizable.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerFinalizable.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerFinalizable~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerFinalizable.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerPrioritizable.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerPrioritizable.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerPrioritizable~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerPrioritizable.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable+Extensions.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable+Extensions.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable+Extensions.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMakerRelatable.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMultiplierTarget.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMultiplierTarget.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMultiplierTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintMultiplierTarget.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintOffsetTarget.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintOffsetTarget.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintOffsetTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintOffsetTarget.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintPriority.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintPriority.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintPriority.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintPriority~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintPriority.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintPriorityTarget.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintPriorityTarget.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintPriorityTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintPriorityTarget.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintRelatableTarget.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintRelatableTarget.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintRelatableTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintRelatableTarget.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintRelation.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintRelation.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintRelation.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintRelation~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintRelation.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintView+Extensions.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintView+Extensions.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintView+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintView+Extensions.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintView.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintView.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintView.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintView.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/ConstraintViewDSL.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintViewDSL.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintViewDSL.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintViewDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/ConstraintViewDSL.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/Debugging.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Debugging.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Debugging.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Debugging~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Debugging.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/LayoutConstraint.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/LayoutConstraint.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/LayoutConstraint.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/LayoutConstraint~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/LayoutConstraint.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/LayoutConstraintItem.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/LayoutConstraintItem.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/LayoutConstraintItem.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/LayoutConstraintItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/LayoutConstraintItem.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/Typealiases.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Typealiases.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Typealiases.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Typealiases~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/Typealiases.swiftdeps"
+  },
+  "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift": {
+    "dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/UILayoutSupport+Extensions.d",
+    "object": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/UILayoutSupport+Extensions.swift.o",
+    "swiftmodule": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/UILayoutSupport+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/nkitamoskalenko/Documents/TestProjects/SPMDemo/.build/arm64-apple-macosx/debug/SnapKit.build/UILayoutSupport+Extensions.swiftdeps"
+  }
+}
