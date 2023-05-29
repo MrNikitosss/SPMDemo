@@ -1,7 +1,7 @@
 import UIKit
 import SnapKit
 
-class BaseXibView: UIView {
+public final class BaseXibView: UIView {
 
     @IBOutlet var contentView: UIView!
 

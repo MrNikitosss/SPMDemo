@@ -22,7 +22,7 @@ enum TextFieldIconPosition {
     case right
 }
 
-final class FFTextFieldView: BaseXibView {
+public final  class FFTextFieldView: BaseXibView {
 
     weak var textFieldViewDelegate: UITextFieldDelegate?
 

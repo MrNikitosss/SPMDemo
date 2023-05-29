@@ -52,7 +52,7 @@ struct FlashfoodTypographyScheme {
     var overline: UIFont
 }
 
-class CustomTextField: UITextField {
+public final class CustomTextField: UITextField {
 
     // MARK: - Properties
 
