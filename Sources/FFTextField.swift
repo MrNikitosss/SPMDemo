@@ -1,5 +1,4 @@
 import UIKit
-import SnapKit
 
 struct FlashfoodColorScheme {
     var primaryColor: UIColor
